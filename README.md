@@ -8,11 +8,14 @@
 希望能给各位一个学习的参考，还望各位不吝赐教。
 
 ## course
-
 ### Machine Learning
+- Course Link: [https://www.coursera.org/learn/machine-learning](https://www.coursera.org/learn/machine-learning)
 
 ### cs231n
-
+Convolution Neural Network for Visual Recognition
+- Home Pages: [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
+- Course Notes: [http://cs231n.github.io](http://cs231n.github.io)
+- Course Videos ( Spring 2017 ) : [YouTube Link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 ## paper
 
 ### overview
