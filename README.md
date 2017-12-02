@@ -16,6 +16,8 @@ Convolution Neural Network for Visual Recognition
 - Home Pages: [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
 - Course Notes: [http://cs231n.github.io](http://cs231n.github.io)
 - Course Videos ( Spring 2017 ) : [YouTube Link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- My assignments solution : [https://github.com/quinwu/cs231n](https://github.com/quinwu/cs231n)
+
 ## paper
 
 ### overview
