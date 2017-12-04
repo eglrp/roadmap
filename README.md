@@ -21,30 +21,30 @@ Convolution Neural Network for Visual Recognition
 ## [paper](https://github.com/quinwu/roadmap/tree/master/paper)
 
 ### overview
-- Deep learning 
+- - [ ] Deep learning 
 
 ###  Convolutional Network
-- Network in Network
-- Deep residual learning for image recognition
+- - [ ] Network in Network
+- - [ ] Deep residual learning for image recognition
 
 ### Object Detection 
-- Rich feature hierarchies for accurate object detection and semantic segmentation
-- Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
-- Fast R-CNN
-- Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
-- You Only Look Once: Uniﬁed, Real-Time Object Detection
-- SSD: Single Shot MultiBox Detector
-- Speed/accuracy trade-offs for modern convolutional object detectors
-- R-FCN: Object Detection via Region-based Fully Convolutional Networks
-- Feature Pyramid Networks for Object Detection
+- - [x] Rich feature hierarchies for accurate object detection and semantic segmentation
+- - [ ] Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
+- - [ ] Fast R-CNN
+- - [ ] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+- - [ ] You Only Look Once: Uniﬁed, Real-Time Object Detection
+- - [ ] SSD: Single Shot MultiBox Detector
+- - [ ] Speed/accuracy trade-offs for modern convolutional object detectors
+- - [ ] R-FCN: Object Detection via Region-based Fully Convolutional Networks
+- - [ ] Feature Pyramid Networks for Object Detection
 
 ### GAN
 
-- Generative Adversarial Nets
+- - [ ] Generative Adversarial Nets
 
 ### Semantic Segmentation
 
-- Fully Convolutional Networks for Semantic Segmentation
-- Learning Deconvolution Network for Semantic Segmentation
-- Mask R-CNN
-- Learning to Segment Every Thing
+- - [ ] Fully Convolutional Networks for Semantic Segmentation
+- - [ ] Learning Deconvolution Network for Semantic Segmentation
+- - [ ] Mask R-CNN
+- - [ ] Learning to Segment Every Thing
