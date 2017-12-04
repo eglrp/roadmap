@@ -2,4 +2,4 @@
 
 跟 Object Detection 相比，Semantic Segmentation 预测的边框更加精细。
 
-![fcn-net](fcn-net.png)
+![fcn-net](FCN/fcn-net.png)
