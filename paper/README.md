@@ -5,3 +5,4 @@
 - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
 - R-FCN: Object Detection via Region-based Fully Convolutional Networks
 - Deep residual learning for image recognition
+- [Fully Convolutional Networks for Semantic Segmentation](https://github.com/quinwu/roadmap/blob/master/paper/FCN.md)

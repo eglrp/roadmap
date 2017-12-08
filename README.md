@@ -44,7 +44,7 @@ Convolution Neural Network for Visual Recognition
 
 ### Semantic Segmentation
 
-- - [ ] Fully Convolutional Networks for Semantic Segmentation
+- - [x] Fully Convolutional Networks for Semantic Segmentation
 - - [ ] Learning Deconvolution Network for Semantic Segmentation
 - - [ ] Mask R-CNN
 - - [ ] Learning to Segment Every Thing
