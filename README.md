@@ -18,6 +18,10 @@ Convolution Neural Network for Visual Recognition
 - Course Videos ( Spring 2017 ) : [YouTube Link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - My assignments solution : [https://github.com/quinwu/cs231n](https://github.com/quinwu/cs231n)
 
+## BOOK
+
+[解析卷积神经网络-深度学习实践手册](http://210.28.132.67/weixs/book/CNN_book.html)
+
 ## [paper](paper)
 
 ### overview
